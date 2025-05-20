@@ -1,0 +1,27 @@
+/* style.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+header {
+  background: linear-gradient(to right, #007bff, #0056b3);
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+form input, form textarea {
+  border-radius: 5px;
+}
+
+.navbar-nav .nav-link {
+  margin-left: 15px;
+}
